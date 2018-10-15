@@ -22,12 +22,12 @@ We learned a lot about coding with Alexa and Python and how to display user info
 We want to successfully build the bluetooth platform tracker so security will be able to locate visitors at any time.
 
 # Built With
-python
-amazon-web-services
-android-studio
-amazon-alexa
-firebase
-javascript
-twilio
-node.js
+python,
+amazon-web-services,
+android-studio,
+amazon-alexa,
+firebase,
+javascript,
+twilio API,
+node.js,
 
