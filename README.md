@@ -29,5 +29,5 @@ amazon-alexa,
 firebase,
 javascript,
 twilio API,
-node.js,
+node.js
 
