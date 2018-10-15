@@ -1,6 +1,8 @@
 # Anthem-Visitor-Alexa-Skill
 Check-in and Check-out with Amazon Alexa
 
+Won Anthem Grand Prize at HackGSU 2017
+
 Authors: Naman Kanwar, Haroon Qahtan, Ayush Goyal, Harnoor Singh
 # Inspiration
 We wanted to build an app that makes visitor sign in and information collection a breeze. Visitor sign in at buildings today is a pain, and most information is stored on paper.
